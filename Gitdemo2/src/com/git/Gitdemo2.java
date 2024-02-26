@@ -6,6 +6,7 @@ public class Gitdemo2 {
 		
 			System.out.println("Git repository demo");
 			System.out.println("Added in Codespace");
+			System.out.println("Added for local repository");
 	}
 
 }
